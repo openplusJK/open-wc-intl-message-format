@@ -1,5 +1,7 @@
 import {LitElement, html} from '@polymer/lit-element';
 
+import IntlMessageFormat from 'intl-messageformat/src/main.js'
+
 /**
  * `my-app` DIT IS DE SHIT
  *
